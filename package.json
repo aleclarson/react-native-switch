@@ -28,6 +28,7 @@
     "react-native": ">=0.29"
   },
   "dependencies": {
+    "react-spring": "npm:@react-spring/native@9.0.0-canary.809.5.f01ecc2",
     "prop-types": "^15.6.0"
   }
 }
