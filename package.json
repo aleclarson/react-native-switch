@@ -25,13 +25,14 @@
   },
   "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
   "peerDependencies": {
-    "react-native": ">=0.29"
+    "@react-spring/native": "*",
+    "react-native": "*"
   },
   "dependencies": {
-    "react-spring": "npm:@react-spring/native@9.0.0-canary.809.5.f01ecc2",
     "prop-types": "^15.6.0"
   },
   "devDependencies": {
-    "react-native": "link:../../../../../react-native/macos"
+    "@react-spring/native": "9.0.0-rc.3",
+    "@types/react-native": "*"
   }
 }
