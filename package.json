@@ -25,14 +25,14 @@
   },
   "author": "Shahen Hovhannisyan <shahen.hovhannisyan.94@gmail.com>",
   "peerDependencies": {
-    "@react-spring/native": "*",
+    "react-haru": "*",
     "react-native": "*"
   },
   "dependencies": {
     "prop-types": "^15.6.0"
   },
   "devDependencies": {
-    "@react-spring/native": "9.0.0-rc.3",
+    "react-haru": "latest",
     "@types/react-native": "*"
   }
 }
